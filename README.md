@@ -6,7 +6,7 @@
 
 ### Sobre Mim
 
-Olá! Sou João Luiz, um entusiasta de tecnologia de 21 anos que se aventurou no mundo da programação por conta própria. Comecei minha jornada assistindo a vídeos e fazendo cursos gratuitos online, o que me permitiu desenvolver habilidades sólidas em várias linguagens e tecnologias. Sou autodidata e estou sempre em busca de novos conhecimentos e desafios.
+Olá! Sou João Luiz, um entusiasta de tecnologia de 22 anos que se aventurou no mundo da programação por conta própria. Comecei minha jornada assistindo a vídeos e fazendo cursos gratuitos online, o que me permitiu desenvolver habilidades sólidas em várias linguagens e tecnologias. Sou autodidata e estou sempre em busca de novos conhecimentos e desafios.
 
 ### Minhas Habilidades
 
