@@ -23,10 +23,6 @@ Olá! Sou João Luiz, um entusiasta de tecnologia de 22 anos que se aventurou no
    - **Descrição**: Script para automação de tarefas repetitivas no ambiente de trabalho.
    - **Tecnologias**: Python, Pandas
 
-3. **Aplicação Web com Flask**
-   - **Descrição**: Uma aplicação web simples desenvolvida com Flask para gerenciar uma lista de tarefas.
-   - **Tecnologias**: Python, Flask, HTML, CSS
-
 ### Objetivos de Aprendizado
 
 - Aprimorar minhas habilidades em JavaScript e explorar frameworks como React.js.
