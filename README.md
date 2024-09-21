@@ -12,9 +12,9 @@ Olá! Sou João Luiz, um entusiasta de tecnologia de 22 anos que se aventurou no
 
 - **Linguagens de Programação**: Python (nível intermediário)
 - **Desenvolvimento Web**:
-  - **Front-End**: HTML, CSS, JavaScript
+  - **Front-End**: HTML, CSS, JavaScript, TAILWINDCSS 
 - **Ferramentas e Tecnologias**:
-  - Pandas, NumPy, Flask
+  - Pandas, NumPy
   - Git & GitHub
 
 ### Projetos em Destaque
