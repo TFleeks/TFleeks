@@ -1,6 +1,6 @@
 # Olá! Eu sou o João Luiz 👋
 
-💻 **Programador Autodidata** | 🌱 **22 anos** | 📚 **Apaixonado por Aprendizado Contínuo**
+💻 **Programador Autodidata** | 🌱 **24 anos** | 📚 **Apaixonado por Aprendizado Contínuo**
 
 ---
 
